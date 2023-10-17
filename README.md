@@ -1,2 +1,5 @@
 # Music-Playlist
-This is a music Playlist created while using GUI in java and add image ,music ,icon. Here can able to play music.
+This is a simple Java GUI music player project. It allows users to play audio files. 
+Contributing :
+
+If you are interested in contributing to the project, please feel free to fork the repository and submit a pull request with your changes.
